@@ -18,7 +18,6 @@ This project analyzes Zomato restaurant data using Python for data cleaning and 
 - Matplotlib
 - Jupyter Notebook
 - Power BI
-- Microsoft Excel
 
 ## Analysis Performed
 - Data Cleaning
