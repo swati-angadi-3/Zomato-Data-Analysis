@@ -5,7 +5,7 @@ Zomato Data Analysis using Python, Jupyter Notebook, and Power BI.
 ## Project Overview
 This project analyzes Zomato restaurant data using Python for data cleaning and analysis, and Power BI for interactive dashboard visualization.
 
-## Files
+## Repository Contents
 - Zomato_data.csv → Original dataset
 - Zomato_cleaned.csv → Cleaned dataset
 - ZomatoProject.ipynb → Python analysis notebook
@@ -18,6 +18,7 @@ This project analyzes Zomato restaurant data using Python for data cleaning and 
 - Matplotlib
 - Jupyter Notebook
 - Power BI
+- Microsoft Excel
 
 ## Analysis Performed
 - Data Cleaning
@@ -25,3 +26,8 @@ This project analyzes Zomato restaurant data using Python for data cleaning and 
 - Exploratory Data Analysis (EDA)
 - Data Visualization
 - Dashboard Creation using Power BI
+
+## Key Insights
+- Analyzed restaurant ratings and reviews.
+- Explored online ordering and table booking trends.
+- Created interactive Power BI dashboards for visualization.
